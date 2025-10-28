@@ -32,5 +32,8 @@ It reduces manual effort and ensures efficient water usage.
 - IoT & Automation Concepts  
 - Git & GitHub  
 
+## 📸 Output Snapshot
+"C:\Users\admin\Documents\snapshootagri.jpg"
+
 📄 License
 This project is licensed under the **MIT License**.
