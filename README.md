@@ -33,7 +33,7 @@ It reduces manual effort and ensures efficient water usage.
 - Git & GitHub  
 
 ## 📸 Output Snapshot
-"C:\Users\admin\Documents\snapshootagri.jpg"
+https://github.com/priyaer685/My-First-Project/blob/main/snapshootagri.jpg?raw=true
 
 📄 License
 This project is licensed under the **MIT License**.
